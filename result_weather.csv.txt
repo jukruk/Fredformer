@@ -1,0 +1,27 @@
+96_96_Fredformer_weather.csv_cf_dim32_cf_depth3_cf_heads8_cf_mlp32_cf_head_dim8_100  
+mse:0.1626766175031662, mae:0.2074039876461029, rse:0.5313401818275452
+
+96_96_Fredformer_weather.csv_cf_dim32_cf_depth3_cf_heads8_cf_mlp32_cf_head_dim8_100  
+mse:0.16283807158470154, mae:0.207248717546463, rse:0.5312058329582214
+
+96_192_Fredformer_weather.csv_cf_dim32_cf_depth3_cf_heads8_cf_mlp32_cf_head_dim8_100  
+mse:0.2104882150888443, mae:0.2515290379524231, rse:0.6035728454589844
+
+96_336_Fredformer_weather.csv_cf_dim16_cf_depth3_cf_heads8_cf_mlp32_cf_head_dim8_100  
+mse:0.24035632610321045, mae:0.28268709778785706, rse:0.6625660061836243
+
+96_720_Fredformer_weather.csv_cf_dim16_cf_depth3_cf_heads8_cf_mlp32_cf_head_dim8_100  
+mse:0.3156125843524933, mae:0.3300008475780487, rse:0.753740131855011
+
+96_96_Fredformer_weather.csv_cf_dim32_cf_depth3_cf_heads8_cf_mlp32_cf_head_dim8_200  
+mse:0.16283807158470154, mae:0.207248717546463, rse:0.5312058329582214
+
+96_192_Fredformer_weather.csv_cf_dim32_cf_depth3_cf_heads8_cf_mlp32_cf_head_dim8_200  
+mse:0.2104882150888443, mae:0.2515290379524231, rse:0.6035728454589844
+
+96_336_Fredformer_weather.csv_cf_dim16_cf_depth3_cf_heads8_cf_mlp32_cf_head_dim8_200  
+mse:0.24035632610321045, mae:0.28268709778785706, rse:0.6625660061836243
+
+96_720_Fredformer_weather.csv_cf_dim16_cf_depth3_cf_heads8_cf_mlp32_cf_head_dim8_200  
+mse:0.3156125843524933, mae:0.3300008475780487, rse:0.753740131855011
+

@@ -1,0 +1,12 @@
+96_96_Fredformer_electricity.csv_cf_dim640_cf_depth3_cf_heads8_cf_mlp640_cf_head_dim32_100  
+mse:0.15032777190208435, mae:0.24389691650867462, rse:0.3856464922428131
+
+96_192_Fredformer_electricity.csv_cf_dim640_cf_depth3_cf_heads8_cf_mlp640_cf_head_dim32_100  
+mse:0.16031888127326965, mae:0.2577253580093384, rse:0.40046218037605286
+
+96_336_Fredformer_electricity.csv_cf_dim640_cf_depth3_cf_heads8_cf_mlp640_cf_head_dim32_100  
+mse:0.1815456598997116, mae:0.27672645449638367, rse:0.4247245192527771
+
+96_720_Fredformer_electricity.csv_cf_dim640_cf_depth3_cf_heads8_cf_mlp640_cf_head_dim32_100  
+mse:0.2157643437385559, mae:0.3076608180999756, rse:0.4644855856895447
+
